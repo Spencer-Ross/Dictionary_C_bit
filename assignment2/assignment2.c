@@ -15,6 +15,8 @@ Return 1 if word found, else 0.
 **********************************************************************/
 int ok(char *dictionaryName, char *word, int length) {
 	// This is where you do the work ;)
+
+	//Here goes nothing...
 	return 0;
 }
 
