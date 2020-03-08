@@ -10,4 +10,6 @@ int main(void) {
 	int width = 16;
 
 	printf("%d\n", ok(webster_16, word, width));
+
+	return 0;
 }
